@@ -19,7 +19,7 @@ function App() {
       <p>Participe ou crie campeonatos online</p>
 
       <div className="button-container">
-        <Button text="Criar Campeonato" />
+        <Button text="Criar Campeonato" link="/criar"/>
         <Button text="Ver Campeonatos" link="/campeonatos"/>
       </div>
     </>

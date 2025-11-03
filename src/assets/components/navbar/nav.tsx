@@ -12,10 +12,10 @@ function Navbar() {
       </div>
 
       <ul className="navbar-links">
-        <li><a href="#">Início</a></li>
-        <li><a href="#">Campeonatos</a></li>
-        <li><a href="#">Sobre</a></li>
-        <li><a href="#">Contato</a></li>
+        <li><a href="/">Início</a></li>
+        <li><a href="/campeonatos">Campeonatos</a></li>
+        <li><a href="/sobre">Sobre</a></li>
+        <li><a href="/contato">Contato</a></li>
       </ul>
     </nav>
   )
