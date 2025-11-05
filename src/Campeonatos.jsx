@@ -59,7 +59,6 @@ function Campeonatos() {
 
       <div className="campeonatos-container">
         <h1>Lista de Campeonatos</h1>
-        <p>Escolha seu jogo e participe dos torneios online!</p>
 
         <div className="cards-grid">
           {campeonatos.map((c) => (
